@@ -171,3 +171,4 @@ timings/
 visualtransformer-env
 *out
 *~
+PyTorchCPU.def
