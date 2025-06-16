@@ -172,3 +172,4 @@ visualtransformer-env
 *out
 *~
 PyTorchCPU.def
+*.sif
